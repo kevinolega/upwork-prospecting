@@ -1,0 +1,92 @@
+2025-05-20-clickup-setup.txt
+
+Here’s your Upwork proposal based on the job post and your preferred format:
+
+---
+
+I’d like to audition as your ClickUp Strategist.
+
+I understand that you're looking for someone to set up ClickUp for your web development agency, with customized fields for design, code, and QA—then continue with managed services.
+
+Reviewing your job description, I’ve performed all these tasks with my past clients.
+
+Since 2016, I’ve worked as a project manager with international teams in web development, operations, and digital marketing. I’ve implemented ClickUp for agencies, structured workspaces based on team roles, and streamlined workflows across design, development, and QA departments.
+
+I’m proficient in ClickUp, Asana, Slack, Google Workspace, and task automation tools. I’m used to documenting SOPs, building templates, and maintaining visibility across distributed teams.
+
+My key areas of expertise include task system setup, workflow documentation, time management, and internal team coordination.
+
+I propose starting with 10–20 hours a week so you can evaluate my work risk-free. For more details on my work, you can learn more about my background at [https://kevinolega.com/xp](https://kevinolega.com/xp) — I only work through Upwork, and all work and payments will stay on this platform. Let me know if you’d like to schedule a quick call to align on your setup goals.
+
+Best regards,
+Kevin
+
+
+Here’s the cleaned-up version of the job listing in Markdown format with full client details included:
+
+---
+
+### **ClickUp Strategist Wanted to Setup ClickUp**
+
+**Posted:** May 19, 2025
+**Category:** Digital Project Management
+
+---
+
+#### **Job Description**
+
+Looking for someone who can set up ClickUp for me.
+
+I’m a website development agency.
+We have website builds (design/code/QA).
+Then have managed services.
+
+I need different fields for each.
+
+**Start:** ASAP
+
+📎 [View job posting](#)
+
+---
+
+#### **Project Details**
+
+* **Experience Level:** Expert
+* **Hourly Range:** \$10.00 – \$30.00
+* **Weekly Hours:** More than 30 hrs/week
+* **Project Length:** 1 to 3 months
+
+---
+
+#### **Skills and Expertise**
+
+* ClickUp
+
+---
+
+#### **Original Message from Client**
+
+> Hello, seeing if you are interested in this project.
+
+---
+
+### **About the Client**
+
+* **Payment Method:** Verified
+* **Rating:** ⭐ 4.7 (604 reviews)
+* **Location:** Altona North, Australia
+* **Local Time:** 11:28 AM
+* **Jobs Posted:** 1,549
+* **Hire Rate:** 57% (16 open jobs)
+* **Total Spent:** \$408K
+* **Hires:** 1,027
+* **Currently Active Contracts:** 0
+* **Average Hourly Rate Paid:** \$7.09/hr
+* **Total Hours Paid:** 14,654 hrs
+* **Industry:** Art & Design
+* **Company Size:** Small company (2–9 people)
+* **Member Since:** August 22, 2011
+
+---
+
+Let me know if you want this added to your ClickUp or job tracker sheet.
